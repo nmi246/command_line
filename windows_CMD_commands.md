@@ -27,8 +27,7 @@
 | title		    | set title for prompt| 
 | ver		      | display operating system version| 
 | w32tm		    | setting time synchronisation/time server/time zone| 
-
-| **Network** |      | 
+| **Network** |      |
 | ftp		      | transfer files to a FTP server| 
 | ftype		    | display file type and mapping| 
 | getmac	    | display MAC address| 
@@ -43,7 +42,6 @@
 | telnet	    | establish Telnet connection| 
 | tftp		    | transfer files to a TFTP server| 
 | tracert	    | trace routes similar to patchping| 
-
 | **Files**   |     | 
 | attrib	    | display file attributes |     
 | comp		    | compare file contents|    
@@ -61,7 +59,6 @@
 | rmdir/rd	  | delete directory|     
 | tree		    | display folder structure graphically|     
 | type		    | display content of text files|    
-
 | **Media**   |       |
 | chkdsk	    | check volumes|
 | chkntfs	    | display/change volume check at startup| 
@@ -74,7 +71,6 @@
 | mountvol	  | assign/delete drive mountpoint| 
 | verify	    | monitoring whether volumes are written correctly|
 | vol		      | show volume description and serial numbers of the HDDs|
-
 | **Miscellaneous**|      | 
 | for		      | for loop  | 
 | gpresult	  | display group policies| 
