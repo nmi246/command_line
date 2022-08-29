@@ -51,14 +51,14 @@ There's all sorts of crap that PROMPT /? gives you:
 
 
 # set to default prompt:
-$ set PROMPT=$P$G
+```$ set PROMPT=$P$G```
 
 
 The CMD prompt can be edited adding/editing the PROMPT variable in 'system variables'. 
 
 
 It can also be change directly via CMD by typing the following command. 
-$ set PROMPT=$P$G		# this is the default prompt that comes with Windows.
+```$ set PROMPT=$P$G```		# this is the default prompt that comes with Windows.
 
 
 Commands:
