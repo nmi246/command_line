@@ -49,16 +49,22 @@ Z:\Documents and Settings\Fred
 
 
 
-# set to default prompt:
+#### Set prompt to default format:
 ```$ set PROMPT=$P$G```
 
 
 The CMD prompt can be edited adding/editing the PROMPT variable in 'system variables'. 
 
 
-It can also be change directly via CMD by typing the following command. 
-```$ set PROMPT=$P$G```		# this is the default prompt that comes with Windows.
+The prompt can also be changed directly from CMD terminal by typing: 
+```
+$ set PROMPT=$P$G   # Default prompt format
+$ set PROMPT=$N$G
+```		
 
 
 Commands:
 SETX - Set an environment variable permanently.
+
+
+
