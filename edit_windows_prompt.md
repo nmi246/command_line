@@ -22,30 +22,26 @@ yields this when on a UNC Mapped Drive:
 Z:\Documents and Settings\Fred
 
 There's all sorts of crap that PROMPT /? gives you:
-
-  $A   & (Ampersand)
-  $B   | (pipe)
-  $C   ( (Left parenthesis)
-  $D   Current date
-  $E   Escape code (ASCII code 27)
-  $F   ) (Right parenthesis)
-  $G   > (greater-than sign)
-  $H   Backspace (erases previous character)
-  $L   < (less-than sign)
-  $N   Current drive
-  $P   Current drive and path
-  $Q   = (equal sign)
-  $S     (space)
-  $T   Current time
-  $V   Windows XP version number
-  $_   Carriage return and linefeed
-  $$   $ (dollar sign)
-  $+   zero or more plus sign (+) characters depending upon the
-       depth of the PUSHD directory stack, one character for each
-       level pushed.
-  $M   Displays the remote name associated with the current drive
-       letter or the empty string if current drive is not a network
-       drive.
+|--------|--------------| 
+|   $A   | & (Ampersand)| 
+|   $B   | \| (pipe)| 
+|   $C   | ( (Left parenthesis)| 
+|   $D   | Current date| 
+|   $E   | Escape code (ASCII code 27)| 
+|   $F   | ) (Right parenthesis)| 
+|   $G   | > (greater-than sign)| 
+|   $H   | Backspace (erases previous character)| 
+|   $L   | < (less-than sign)| 
+|   $N   | Current drive| 
+|   $P   | Current drive and path| 
+|   $Q   | = (equal sign)| 
+|   $S   |   (space)| 
+|   $T   | Current time| 
+|   $V   | Windows XP version number| 
+|   $_   | Carriage return and linefeed| 
+|   $$   | $ (dollar sign)| 
+|   $+   |  zero or more plus sign (+) characters depending upon the depth of the PUSHD directory stack, one character for each level pushed.| 
+|   $M   | Displays the remote name associated with the current drive letter or the empty string if current drive is not a network drive.| 
 
 
 
