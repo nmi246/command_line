@@ -21,7 +21,8 @@ yields this when on a UNC Mapped Drive:
 \\FREDPC\C$
 Z:\Documents and Settings\Fred
 
-There's all sorts of crap that PROMPT /? gives you:
+
+#### There's all sorts of crap that PROMPT /? gives you:
 
 | Symbol | Meaning      | 
 |--------|--------------| 
